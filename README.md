@@ -1,2 +1,3 @@
 # ipasubmit
 ipasubmit
+APP开发助手 iOS APP上架到App Store的辅助工具，解决iOS APP上架繁琐费时的情况，帮助跨平台APP开发者上架苹果应用,在没有配置Mac苹果机的情况，实现iOS证书申请，创建iOS开发者证书、iOS发布证书等各类证书，iOS开发者在Windows、Linux或Mac系统中上传IPA到App Store,简化iOS APP上架流程！在任何电脑中轻松快速上架你的APP
